@@ -1,0 +1,10 @@
+{"user_id": "user_1", "item_id": "item_1", "event_type": "purchase", "weight": 3.0, "timestamp": "2026-03-01T10:00:00Z"}
+{"user_id": "user_1", "item_id": "item_3", "event_type": "click", "weight": 1.0, "timestamp": "2026-03-02T11:00:00Z"}
+{"user_id": "user_1", "item_id": "item_5", "event_type": "view", "weight": 0.5, "timestamp": "2026-03-03T09:00:00Z"}
+{"user_id": "user_1", "item_id": "item_7", "event_type": "add_to_cart", "weight": 2.0, "timestamp": "2026-03-04T14:00:00Z"}
+{"user_id": "user_2", "item_id": "item_2", "event_type": "purchase", "weight": 3.0, "timestamp": "2026-03-01T08:00:00Z"}
+{"user_id": "user_2", "item_id": "item_4", "event_type": "click", "weight": 1.0, "timestamp": "2026-03-02T16:00:00Z"}
+{"user_id": "user_2", "item_id": "item_6", "event_type": "purchase", "weight": 3.0, "timestamp": "2026-03-05T12:00:00Z"}
+{"user_id": "user_3", "item_id": "item_5", "event_type": "purchase", "weight": 3.0, "timestamp": "2026-03-03T10:00:00Z"}
+{"user_id": "user_3", "item_id": "item_7", "event_type": "purchase", "weight": 3.0, "timestamp": "2026-03-04T10:00:00Z"}
+{"user_id": "user_3", "item_id": "item_1", "event_type": "click", "weight": 1.0, "timestamp": "2026-03-06T10:00:00Z"}
